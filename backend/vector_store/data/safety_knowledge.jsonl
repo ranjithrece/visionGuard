@@ -1,0 +1,30 @@
+{"id": "home_001", "text": "Keep cleaning products locked away to prevent child poisoning.", "metadata": {"domain": "home_safety", "risk_type": "poisoning", "age_group": "children"}}
+{"id": "home_002", "text": "Use childproof locks on cabinets containing sharp utensils.", "metadata": {"domain": "home_safety", "risk_type": "cut_injury", "age_group": "children"}}
+{"id": "home_003", "text": "Do not leave cooking unattended to avoid kitchen fires.", "metadata": {"domain": "home_safety", "risk_type": "fire", "age_group": "all"}}
+{"id": "home_004", "text": "Install smoke detectors in all rooms and test monthly.", "metadata": {"domain": "home_safety", "risk_type": "fire", "age_group": "all"}}
+{"id": "home_005", "text": "Cover electrical outlets to prevent shock in toddlers.", "metadata": {"domain": "home_safety", "risk_type": "electric_shock", "age_group": "children"}}
+{"id": "factory_001", "text": "Wear helmets and gloves when working with heavy machinery.", "metadata": {"domain": "workplace_safety", "risk_type": "head_injury", "age_group": "adult"}}
+{"id": "factory_002", "text": "Machines must have emergency stop buttons within reach.", "metadata": {"domain": "workplace_safety", "risk_type": "machine_accident", "age_group": "adult"}}
+{"id": "factory_003", "text": "Warning signs should be posted near all hazardous zones.", "metadata": {"domain": "workplace_safety", "risk_type": "general", "age_group": "adult"}}
+{"id": "factory_004", "text": "Employees must wear ear protection in high noise zones.", "metadata": {"domain": "workplace_safety", "risk_type": "hearing_loss", "age_group": "adult"}}
+{"id": "factory_005", "text": "Forklift operators must be trained and licensed.", "metadata": {"domain": "workplace_safety", "risk_type": "vehicular", "age_group": "adult"}}
+{"id": "elderly_001", "text": "Install grab bars in bathrooms to prevent elderly falls.", "metadata": {"domain": "elderly_care", "risk_type": "fall", "age_group": "elderly"}}
+{"id": "elderly_002", "text": "Use non-slip mats near sinks and tubs for elder safety.", "metadata": {"domain": "elderly_care", "risk_type": "slip", "age_group": "elderly"}}
+{"id": "elderly_003", "text": "Ensure clear walking paths with no floor clutter.", "metadata": {"domain": "elderly_care", "risk_type": "trip", "age_group": "elderly"}}
+{"id": "elderly_004", "text": "Install night lights in hallways for nighttime safety.", "metadata": {"domain": "elderly_care", "risk_type": "low_visibility", "age_group": "elderly"}}
+{"id": "elderly_005", "text": "Bedrails should be used in hospitals for elderly patients.", "metadata": {"domain": "elderly_care", "risk_type": "fall", "age_group": "elderly"}}
+{"id": "electrical_001", "text": "Avoid overloading electrical outlets with multiple devices.", "metadata": {"domain": "electrical_safety", "risk_type": "fire", "age_group": "all"}}
+{"id": "electrical_002", "text": "Unplug appliances when not in use to prevent overheating.", "metadata": {"domain": "electrical_safety", "risk_type": "fire", "age_group": "all"}}
+{"id": "electrical_003", "text": "Keep water away from electrical equipment.", "metadata": {"domain": "electrical_safety", "risk_type": "electric_shock", "age_group": "all"}}
+{"id": "electrical_004", "text": "Extension cords should not run under carpets.", "metadata": {"domain": "electrical_safety", "risk_type": "fire", "age_group": "all"}}
+{"id": "electrical_005", "text": "Frayed wires must be replaced immediately.", "metadata": {"domain": "electrical_safety", "risk_type": "shock", "age_group": "all"}}
+{"id": "school_001", "text": "Classroom scissors should have rounded tips for safety.", "metadata": {"domain": "school_safety", "risk_type": "cut_injury", "age_group": "children"}}
+{"id": "school_002", "text": "Science labs must store chemicals in locked cabinets.", "metadata": {"domain": "school_safety", "risk_type": "chemical_hazard", "age_group": "children"}}
+{"id": "school_003", "text": "Emergency exits must be clearly marked and accessible.", "metadata": {"domain": "school_safety", "risk_type": "fire", "age_group": "children"}}
+{"id": "school_004", "text": "Teachers must supervise playground activity to prevent injuries.", "metadata": {"domain": "school_safety", "risk_type": "general", "age_group": "children"}}
+{"id": "school_005", "text": "Sharp tools like paper cutters should be locked away.", "metadata": {"domain": "school_safety", "risk_type": "cut_injury", "age_group": "children"}}
+{"id": "road_001", "text": "Seat belts must be worn at all times in moving vehicles.", "metadata": {"domain": "road_safety", "risk_type": "injury", "age_group": "all"}}
+{"id": "road_002", "text": "Children should use car seats appropriate for their age and weight.", "metadata": {"domain": "road_safety", "risk_type": "injury", "age_group": "children"}}
+{"id": "road_003", "text": "Motorcyclists must wear helmets approved by safety standards.", "metadata": {"domain": "road_safety", "risk_type": "head_injury", "age_group": "adult"}}
+{"id": "road_004", "text": "Pedestrians should cross roads only at marked crosswalks.", "metadata": {"domain": "road_safety", "risk_type": "collision", "age_group": "all"}}
+{"id": "road_005", "text": "Avoid using mobile phones while driving or walking on roads.", "metadata": {"domain": "road_safety", "risk_type": "distraction", "age_group": "all"}}
