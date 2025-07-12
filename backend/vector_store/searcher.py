@@ -14,6 +14,7 @@ class SaftyRetriever:
     def retrieve(self,query:str,k:int=3):
         docs = FAISS.load_local(self.index_path,self.embedder,allow_dangerous_deserialization=True)
         return docs.similarity_search(query,k)
+    
 
 
 if __name__=='__main__':

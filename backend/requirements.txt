@@ -6,3 +6,5 @@ python-dotenv
 sentence-transformers
 langchain_ollama
 langchain_community
+langgraph
+streamlit
